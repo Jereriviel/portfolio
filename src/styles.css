@@ -188,15 +188,6 @@ figure:hover {
   .project__text {
     gap: 2rem;
   }
-
-  .project__information {
-    gap: 2rem;
-  }
-
-  .project__links {
-    gap: 2rem;
-    padding-top: 2rem;
-  }
 }
 
 /* Footer */
