@@ -76,12 +76,12 @@ label {
 
 p,
 li {
-  line-height: 2;
+  line-height: 1.5;
 }
 
-@media (min-height: 600px) {
+@media (min-width: 600px) {
   p,
   li {
-    line-height: 1.8;
+    line-height: 1.3;
   }
 }
