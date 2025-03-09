@@ -188,6 +188,14 @@ figure:hover {
   .project__text {
     gap: 2rem;
   }
+
+  .project__zoom {
+    transition: transform 1s;
+  }
+
+  .project__zoom:hover {
+    transform: scale(1.02);
+  }
 }
 
 /* Footer */
