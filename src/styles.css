@@ -156,6 +156,10 @@ figure:hover {
   padding-top: 1rem;
 }
 
+.project__links a {
+  transition: 0.4s ease;
+}
+
 .project__links a:hover {
   color: #8b6cca;
 }
