@@ -1,5 +1,7 @@
 # Portfolio
 
+![image](https://jereriviel.github.io/portfolio/assets/img/portfolio_thumbnail.png)
+
 ## Description
 
 This project was created as part of the Portfolio 1 Course Assignment.
