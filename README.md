@@ -1,5 +1,7 @@
 # Portfolio
 
+![image](https://jereriviel.github.io/portfolio/assets/img/portfolio_thumbnail.png)
+
 ## Description
 
 This project was created as part of the Portfolio 1 Course Assignment.
@@ -23,10 +25,6 @@ git clone git@github.com:Jereriviel/portfolio.git
 ```
 
 There are no dependencies.
-
-## Contributing
-
-If you would like to contribute to this project, please open a pull request so the code can be reviewed.
 
 ## Contact
 
