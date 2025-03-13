@@ -26,10 +26,6 @@ git clone git@github.com:Jereriviel/portfolio.git
 
 There are no dependencies.
 
-## Contributing
-
-If you would like to contribute to this project, please open a pull request so the code can be reviewed.
-
 ## Contact
 
 Contact information will be added at a later stage.
