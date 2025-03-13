@@ -1,6 +1,6 @@
 # Portfolio
 
-![image](https://jereriviel.github.io/portfolio/assets/img/portfolio_thumbnail.png)
+![image](https://jereriviel.github.io/portfolio/assets/img/portfolio_thumbnail.webp)
 
 ## Description
 
